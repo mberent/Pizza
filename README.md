@@ -1,4 +1,4 @@
-# Pizza_ASP_MVC_Training
+# Pizza
 
 Projekt zaliczeniowy z przedmiotu "Wielowarstwowe aplikacje internetowe".
 
