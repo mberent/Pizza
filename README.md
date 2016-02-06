@@ -24,7 +24,7 @@ http://www.cs.put.poznan.pl/mwojciechowski/
 > * Na zakończenie procesu usuwania pizzy powinna być prezentowana użytkownikowi strona z prośbą o potwierdzenie swojej decyzji z możliwością wycofania się z niej
 > * Wszystkie pola formularzy do dodawania i edycji powinny być obowiązkowe
 > * Wymagania w zakresie wykorzystywanych w projekcie technologii
-> * 
+> 
 > * Framework dla warstwy prezentacji: ASP.NET MVC (wersja dostępna w laboratorium lub ewentualnie nowsza jeśli prezentacja na własnym komputerze)
 > * Obsługa trwałości danych (komunikacja z b.d.): ADO.NET Entity Framework (Code First)
 > * Serwer bazy danych: Microsoft SQL Server (LocalDB lub Express)
